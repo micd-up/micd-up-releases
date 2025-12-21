@@ -14,7 +14,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/micd-up/micd-up-releases/releases/download/v1.0.1/Mic'd Up-v1.0.1.zip"
+                url="https://github.com/micd-up/micd-up-releases/releases/download/v1.0.1/Mic.d.Up-v1.0.1.zip"
                 length="3427457"
                 type="application/octet-stream"
                 sparkle:edSignature="znLMJ63faLJcbouWAD7QE3C7yuBeXIbUEfokHI+AfMSlkHEmbdU7ZMylPRRc7Qi+5YLNwW/jOAxNDcW+lnboAw==" />
@@ -27,7 +27,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/micd-up/micd-up-releases/releases/download/v1.0.0/Mic'd Up-v1.0.0.zip"
+                url="https://github.com/micd-up/micd-up-releases/releases/download/v1.0.0/Mic.d.Up-v1.0.0.zip"
                 length="3427450"
                 type="application/octet-stream"
                 sparkle:edSignature="pC8Lp7pHOraUz0zgyBYLG7SsIM3kVidbCw7iCzLe30D1GncGzzSRnwDbB5JelPXcyGjuMD+4hQJnskF1c1iRCQ==" />
