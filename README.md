@@ -1,4 +1,4 @@
-# HotDictation
+# Mic'd Up
 
 A lightweight macOS menu bar app for voice-to-text transcription powered by OpenAI's Whisper. All processing happens locally on your Mac — no internet required, complete privacy guaranteed.
 
@@ -13,20 +13,20 @@ A lightweight macOS menu bar app for voice-to-text transcription powered by Open
 
 ## Download
 
-Download the latest release from the [Releases page](https://github.com/AmbientRun/HotDictation-releases/releases).
+Download the latest release from the [Releases page](https://github.com/htumber/micd-up-releases/releases).
 
 ## Installation
 
-1. Download `HotDictation.dmg` from the latest release
-2. Open the DMG and drag HotDictation to your Applications folder
-3. Launch HotDictation from Applications
+1. Download `Mic'd Up.dmg` from the latest release
+2. Open the DMG and drag Mic'd Up to your Applications folder
+3. Launch Mic'd Up from Applications
 
 ### First Launch (Important)
 
-Since HotDictation is distributed outside the Mac App Store, macOS may block it on first launch. To fix this:
+Since Mic'd Up is distributed outside the Mac App Store, macOS may block it on first launch. To fix this:
 
 ```bash
-xattr -cr /Applications/HotDictation.app
+xattr -cr "/Applications/Mic'd Up.app"
 ```
 
 Then launch the app again.
@@ -35,7 +35,7 @@ Alternatively, you can right-click the app and select "Open" to bypass Gatekeepe
 
 ## Permissions
 
-HotDictation requires the following permissions to function:
+Mic'd Up requires the following permissions to function:
 
 | Permission | Why It's Needed |
 |------------|-----------------|
@@ -51,13 +51,13 @@ Grant these permissions when prompted, or add them manually in **System Settings
 Run this command in Terminal:
 
 ```bash
-xattr -cr /Applications/HotDictation.app
+xattr -cr "/Applications/Mic'd Up.app"
 ```
 
 ### Hotkey not working
 
 1. Ensure Accessibility permission is granted in **System Settings → Privacy & Security → Accessibility**
-2. Try removing and re-adding HotDictation from the list
+2. Try removing and re-adding Mic'd Up from the list
 3. Restart the app
 
 ### No audio being recorded
@@ -84,7 +84,7 @@ xattr -cr /Applications/HotDictation.app
 
 ## Privacy
 
-HotDictation processes all audio locally using whisper.cpp. No audio or transcriptions are ever sent to external servers. Your voice data stays on your Mac.
+Mic'd Up processes all audio locally using whisper.cpp. No audio or transcriptions are ever sent to external servers. Your voice data stays on your Mac.
 
 ## License
 
