@@ -1,6 +1,6 @@
 # Mic'd Up
 
-A lightweight macOS menu bar app for voice-to-text transcription powered by OpenAI's Whisper. All processing happens locally on your Mac — no internet required, complete privacy guaranteed.
+A lightweight macOS menu bar app for voice-to-text transcription powered by [whisper.cpp](https://github.com/ggml-org/whisper.cpp), a C++ port of OpenAI's Whisper speech recognition model. All processing happens locally on your Mac — no internet required, complete privacy guaranteed.
 
 ## Features
 
