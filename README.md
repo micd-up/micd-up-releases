@@ -88,4 +88,4 @@ Mic'd Up processes all audio locally using whisper.cpp. No audio or transcriptio
 
 ## License
 
-Copyright 2024 Ambient Run. All rights reserved.
+MIT
