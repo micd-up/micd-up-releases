@@ -8,6 +8,19 @@
 		<language>en</language>
 
         <item>
+            <title>Version ..1</title>
+            <description><![CDATA[<h2>What's New</h2><p>Fix the whisper-cli</p>]]></description>
+            <pubDate>Thu, 22 Jan 2026 15:04:50 -0800</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>..1</sparkle:shortVersionString>
+            <enclosure
+                url="https://github.com/micd-up/micd-up-releases/releases/download/v..1/Mic.d.Up-v..1.zip"
+                length="5376844"
+                type="application/octet-stream"
+                sparkle:edSignature="wmVjS1Wbf/hxDmn6/ISEl2PJhCxsIaF4plh73SyN2jfrOx6GQPC2SvIPS5MDWTzy3dHb8KOryw/PzYrEoxYhDg==" />
+        </item>
+
+        <item>
             <title>Version 1.0.1</title>
             <description><![CDATA[<h2>What's New</h2><p>Update check</p>]]></description>
             <pubDate>Sun, 21 Dec 2025 02:47:17 -0800</pubDate>
