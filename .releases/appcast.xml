@@ -8,6 +8,19 @@
 		<language>en</language>
 
         <item>
+            <title>Version 1.0.3</title>
+            <description><![CDATA[<h2>What's New</h2><p>AI Recording Mode - New hotkey for AI-powered transcription using OpenAI</p>]]></description>
+            <pubDate>Mon, 02 Feb 2026 00:02:08 -0800</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <enclosure
+                url="https://github.com/micd-up/micd-up-releases/releases/download/v1.0.3/Mic.d.Up-v1.0.3.zip"
+                length="5380713"
+                type="application/octet-stream"
+                sparkle:edSignature="MSbCb+RtX/aSEJazCMSAs1YVu9Z4eiZqWw6Z54pvKZ6fbLp58rtDTEyhAOnhEuzN5I2Hr2bXh/hemrCIw9tOAQ==" />
+        </item>
+
+        <item>
             <title>Version 1.0.2</title>
             <description><![CDATA[<h2>What's New</h2><p>Fix the whisper-cli</p>]]></description>
             <pubDate>Thu, 22 Jan 2026 15:06:46 -0800</pubDate>
